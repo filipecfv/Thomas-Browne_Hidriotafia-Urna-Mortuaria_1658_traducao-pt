@@ -4,8 +4,6 @@
 
 ## Índice
 
-[Página Titular](./pagina-titular.md)
-
 [Epístola ao Leitor](./epistola-ao-leitor.md)
 
 [Capítulo I](./capitulo-1.md)
