@@ -1,8 +1,8 @@
 # Hidriotáfia, Urna Mortuária
-## ou uma Dissertação acerca das Urnas Sepulcrais recém achadas em Norfolks
-### de Sir Thomas Browne
+### ou uma Dissertação acerca das Urnas Sepulcrais recém achadas em Norfolks
+#### de Sir Thomas Browne
 
-## Índice
+### Índice
 
 [Página Titular](./pagina-titular.md)
 
