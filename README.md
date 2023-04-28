@@ -1,6 +1,6 @@
-# Hidriotáfia, Urna Mortuária
+# Hidriotáfia, Urna Mortuária (1658)
 ### ou uma Dissertação acerca das Urnas Sepulcrais recém achadas em Norfolks
-#### de Sir Thomas Browne
+#### de Sir Thomas Browne (1605 - 1682)
 
 ## Índice
 
